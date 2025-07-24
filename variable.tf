@@ -13,3 +13,4 @@ variable "subnet2_cidr" {
 variable "subnet3_cidr" {
   
 }
+
