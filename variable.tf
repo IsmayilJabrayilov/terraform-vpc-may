@@ -14,3 +14,7 @@ variable "subnet3_cidr" {
   
 }
 
+variable "vpc_name" {
+  
+}
+
